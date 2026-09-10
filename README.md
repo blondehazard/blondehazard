@@ -1,4 +1,12 @@
-## Hi there 👋
+<div align= "center"> 
+<img width="1080" height="514" alt="Untitled12_20260910143647" src="https://github.com/user-attachments/assets/32a625df-d436-45be-b9ac-51c2eab65e47" />
+
+$\color{#DFA3FF}{\texttt{The}}$ $\color{#FFFFFF}{\texttt{1}}$ $\color{#DFA3FF}{\texttt{and}}$ $\color{#FFFFFF}{\texttt{Only}}$ $\color{#DFA3FF}{\texttt{Stephanie}}$ $\color{#FFFFFF}{\texttt{Brown!}}$ 
+  
+<img width="1080" height="514" alt="Untitled12_20260910145501" src="https://github.com/user-attachments/assets/dad00ad5-bc65-47f8-92bf-6ca1bef5b60c" />
+
+
+</div>
 
 <!--
 **blondehazard/blondehazard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

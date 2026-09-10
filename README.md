@@ -1,6 +1,9 @@
 <div align= "center"> 
 <img width="2080" height="1014" alt="Untitled12_20260910143647" src="https://github.com/user-attachments/assets/32a625df-d436-45be-b9ac-51c2eab65e47" />
 
+<a href="https://www.glitter-graphics.com"><img src="https://dl3.glitter-graphics.net/pub/293/293433z8s8tdjzd0.gif" width=150 height=20 border=0></a><br><a href="https://www.glitter-graphics.com" target=_blank></a>
+<a href="https://www.glitter-graphics.com"><img src="https://dl6.glitter-graphics.net/pub/1413/1413286ogmri6idls.gif" width=150 height=20 border=0></a><br><a href="https://www.glitter-graphics.com" target=_blank></a>
+
 <img width="656" height="343" alt="Untitled20_20260910163410" src="https://github.com/user-attachments/assets/a5220404-caab-4f97-8227-472fb3b126a3" />
 
 
